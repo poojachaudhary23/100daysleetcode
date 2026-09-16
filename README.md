@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
