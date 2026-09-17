@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0319-bulb-switcher) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0179-largest-number) |
