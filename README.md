@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0155-min-stack) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
