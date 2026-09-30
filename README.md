@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0704-binary-search](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
