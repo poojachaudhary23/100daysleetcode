@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1518-water-bottles) |
 ## Array
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -179,5 +181,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
