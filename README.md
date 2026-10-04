@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1518-water-bottles) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Array
 |  |
 | ------- |
@@ -191,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
