@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1572-matrix-diagonal-sum) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
