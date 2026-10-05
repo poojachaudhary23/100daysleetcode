@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
