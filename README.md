@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0443-string-compression) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0237-delete-node-in-a-linked-list) |
