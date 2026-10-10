@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -232,4 +233,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
