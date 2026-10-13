@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0881-boats-to-save-people) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
