@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1518-water-bottles) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0881-boats-to-save-people) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Longest Increasing Subsequence
 |  |
