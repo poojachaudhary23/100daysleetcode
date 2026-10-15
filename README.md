@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -268,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
