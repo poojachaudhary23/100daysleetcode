@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
