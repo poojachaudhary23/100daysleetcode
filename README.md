@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0179-largest-number) |
 | [0443-string-compression](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0443-string-compression) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Quickselect
 |  |
 | ------- |
