@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0179-largest-number) |
 | [0443-string-compression](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0443-string-compression) |
+| [1021-remove-outermost-parentheses](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Quickselect
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
