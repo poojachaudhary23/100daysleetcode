@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0268-missing-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
