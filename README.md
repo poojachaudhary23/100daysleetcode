@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/poojachaudhary23/100daysleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
