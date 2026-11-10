@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0459-repeated-substring-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/poojachaudhary23/100daysleetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Quickselect
@@ -311,4 +312,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/poojachaudhary23/100daysleetcode/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/poojachaudhary23/100daysleetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
